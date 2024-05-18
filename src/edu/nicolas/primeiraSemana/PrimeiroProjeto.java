@@ -1,6 +1,6 @@
 package edu.nicolas.primeiraSemana;
 
-public class MinhaClasse {
+public class PrimeiroProjeto {
     public static void main(String[] args) {
 
         //propiedades
@@ -28,4 +28,3 @@ public class MinhaClasse {
         return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
     }
 }
-

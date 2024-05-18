@@ -1,4 +1,4 @@
-package edu.nicolas.desafios;
+package edu.nicolas.desafios.ContaBanco_Sintaxe;
 
 import java.util.Scanner;
 
